@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://professional-x.github.io/Harmony-Music-Fixed/sitemap.xml
