@@ -69,7 +69,7 @@ Visit [harmonyfixed.space-z.ai](https://harmonyfixed.space-z.ai/) for the full *
 
 ## Harmony Music APK - Latest Version Download
 
-This is the most up-to-date **Harmony Music fork** available on GitHub. If you've been searching for a **harmony music apk github** download, a **harmony music app github** with working search, or wondering **what happened to harmony music** — this repository has the answer.
+This is the most up-to-date **Harmony Music fork** available on GitHub. If you've been searching for a **harmony music apk github** download, a **harmony music app github** with working search, wondering **what happened to harmony music**, or even searching **harmonic music github** by mistake — this repository has the answer.
 
 The original **harmony music github** project by anandnet is no longer maintained, causing **harmony music search not working** for thousands of users. This fork provides every **harmony music update** needed to keep the app running on modern Android devices. Download the **harmony music apk latest version** with confidence — it's open source under GPL v3.0.
 
@@ -123,6 +123,32 @@ If YouTube Music crashes on Android, Harmony Music provides a stable open-source
 
 **Does it work on Android 14?**
 Yes. All Android 13+ compatibility issues are resolved in this **harmony music update**.
+
+---
+
+## 🎵 Request New Features — We Need Your Ideas!
+
+This is a **community-driven** project. Your feedback directly shapes the next **harmony music update**. If you have an idea for a new feature or an improvement, we want to hear it!
+
+**How to request a feature:**
+1. Go to the [Issues tab](https://github.com/Professional-X/Harmony-Music-Fixed/issues) on this repository
+2. Click **"New Issue"**
+3. Use a clear title (e.g., "Feature: Add crossfade between songs")
+4. Describe what the feature does, why it's useful, and how you'd like it to work
+5. Submit!
+
+**What kind of features can you request?**
+- UI/UX improvements (themes, layouts, gestures)
+- New playback features (crossfade, gapless playback, speed control)
+- Better search and discovery (suggestions, recommendations)
+- Library management (smart playlists, auto-sorting)
+- Integration features (casting, widgets, Bluetooth controls)
+- Performance improvements
+- Any other idea you have!
+
+Popular feature requests will be prioritized in upcoming releases. The more requests a feature gets, the sooner it gets built. Help us make this the best **open source music player** on GitHub!
+
+[👉 Open a Feature Request](https://github.com/Professional-X/Harmony-Music-Fixed/issues/new)
 
 ---
 
