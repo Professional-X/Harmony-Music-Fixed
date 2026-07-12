@@ -8,8 +8,8 @@
 [![License: GPL v3.0](https://img.shields.io/badge/License-GPL_v3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Linux-green)]()
-[![Fixed](https://img.shields.io/badge/Status-Search_Fixed-brightgreen)](https://harmonymusic.space-z.ai/)
-[![Latest](https://img.shields.io/badge/APK-Latest_Version-blue)](https://harmonymusic.space-z.ai/)
+[![Fixed](https://img.shields.io/badge/Status-Search_Fixed-brightgreen)](https://harmonyfixed.space-z.ai/)
+[![Latest](https://img.shields.io/badge/APK-Latest_Version-blue)](https://harmonyfixed.space-z.ai/)
 
 **The original Harmony Music is no longer maintained. This fork fixes search not working, playback errors & crashes. Download the Harmony Music APK latest version.**
 
@@ -21,7 +21,7 @@
 
 The original Harmony Music app has broken search, playback errors, and crashes on newer Android versions. If you're experiencing **harmony music not working** or **harmony music search not working**, this fixed version resolves all known issues.
 
-**[Download Harmony Music APK Latest Version from harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/)**
+**[Download Harmony Music APK Latest Version from harmonyfixed.space-z.ai](https://harmonyfixed.space-z.ai/)**
 
 Looking for the **harmony music github download**? You can also get the **harmony music apk github** release directly from the [Releases](https://github.com/Professional-X/Harmony-Music-Fixed/releases) page.
 
@@ -63,7 +63,7 @@ Looking for the **harmony music github download**? You can also get the **harmon
 | Notification control issues | ✅ Fixed |
 | YouTube Music crashes Android (alternative) | ✅ Stable alternative |
 
-Visit [harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/) for the full **harmony music update** changelog.
+Visit [harmonyfixed.space-z.ai](https://harmonyfixed.space-z.ai/) for the full **harmony music update** changelog.
 
 ---
 
@@ -75,7 +75,7 @@ The original **harmony music github** project by anandnet is no longer maintaine
 
 ### Harmony Music GitHub Download
 
-Get the **harmony github apk** from our releases page or download directly from [harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/). This **harmony music android github** fork is trusted by users worldwide — from India, Malaysia, Spain, France, Indonesia, and beyond. If your current **harmony music github android** build is broken, this is the fix.
+Get the **harmony github apk** from our releases page or download directly from [harmonyfixed.space-z.ai](https://harmonyfixed.space-z.ai/). This **harmony music android github** fork is trusted by users worldwide — from India, Malaysia, Spain, France, Indonesia, and beyond. If your current **harmony music github android** build is broken, this is the fix.
 
 ### What Happened to Harmony Music?
 
@@ -86,7 +86,7 @@ Many users ask **"what happened to harmony music"** — the original developer s
 ## How to Install the Harmony Music APK
 
 1. Uninstall the old Harmony Music app
-2. Download the **Harmony Music APK latest version** from **[harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/)**
+2. Download the **Harmony Music APK latest version** from **[harmonyfixed.space-z.ai](https://harmonyfixed.space-z.ai/)**
 3. Enable "Install from unknown sources" in settings
 4. Install and open the app
 5. Search, play, and enjoy!
@@ -110,10 +110,10 @@ The original app is unmaintained. YouTube and Piped API endpoints have changed, 
 The original **harmony music github** repo by anandnet is abandoned. This **harmony music fork** provides ongoing **harmony music update** releases with all fixes.
 
 **Where can I download Harmony Music APK from GitHub?**
-Download the **harmony music github download** from [harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/) or the [GitHub Releases](https://github.com/Professional-X/Harmony-Music-Fixed/releases) page.
+Download the **harmony music github download** from [harmonyfixed.space-z.ai](https://harmonyfixed.space-z.ai/) or the [GitHub Releases](https://github.com/Professional-X/Harmony-Music-Fixed/releases) page.
 
 **How to get the Harmony Music APK latest version?**
-Visit [harmonymusic.space-z.ai](https://harmonymusic.space-z.ai/) for the newest **harmony music apk latest version** with search fix and stability patches.
+Visit [harmonyfixed.space-z.ai](https://harmonyfixed.space-z.ai/) for the newest **harmony music apk latest version** with search fix and stability patches.
 
 **Is this Harmony Music APK safe?**
 Yes. This is an open-source **harmony music fork** under GPL v3.0 license. Review the code on the **harmony music app github** repository.
