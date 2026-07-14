@@ -13,6 +13,13 @@
 
 **The original Harmony Music is no longer maintained. This fork fixes search not working, playback errors & crashes. Download the Harmony Music APK latest version.**
 
+> ## 💡 Want a New Feature?
+> **This app is community-driven — your ideas matter!** Got a feature in mind? A UI improvement, a missing option, or something cool you'd love to see added?
+>
+> 👉 **[Open a Feature Request in Issues →](https://github.com/Professional-X/Harmony-Music-Fixed/issues/new)**
+>
+> Just click the link above, describe your idea, and the most requested features get built first!
+
 </div>
 
 ---
